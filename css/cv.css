@@ -1,12 +1,13 @@
 html {
     background-color: #F2F0Ef;
-    margin: 0;
 }
 
 body {
     margin: 0;
-
 }
+
+
+/* -------------------------------------------------------------------barre_de_gauche--------------------------------------------------------------------------- */
 
 #barreleft {
     width: 20%;
@@ -14,7 +15,6 @@ body {
     position: sticky;
     border-right: 2px solid black;
     position: fixed;
-  
 }
 
 #photo {
@@ -53,7 +53,6 @@ body {
 }
 
 #like {
-    
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 10%;
@@ -64,7 +63,6 @@ body {
 }
 
 #git {
-    
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 10%;
@@ -75,7 +73,6 @@ body {
 }
 
 #pinter {
-    
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 10%;
@@ -86,7 +83,6 @@ body {
 }
 
 #fb {
-    
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 10%;
@@ -114,6 +110,9 @@ body {
     height: 150%;
     left: 20%;
 }
+
+
+/* --------------------------------------------------------------------------toutes_les_infos---------------------------------------------------------------------- */
 
 #titre {
     position: absolute;
@@ -176,7 +175,7 @@ body {
     border: 1px solid #AE8B96;
 }
 
-#autour1{
+#autour1 {
     position: relative;
     width: 94%;
     height: 20%;
@@ -184,10 +183,10 @@ body {
     padding-right: 2%;
     bottom: 115%;
     float: unset;
-    top: 58%; 
-
+    top: 58%;
 }
-#prjt{
+
+#prjt {
     position: absolute;
     width: 99.8%;
     height: 80%;
@@ -196,16 +195,16 @@ body {
     border: 1px solid #AE8B96;
 }
 
-.print{
+.print {
     background-color: white;
     width: 100%;
     height: 4%;
     border: 1px solid black;
     position: absolute;
-    top:95%;
-
+    top: 95%;
 }
-#autour2{
+
+#autour2 {
     position: relative;
     width: 94%;
     height: 20%;
@@ -213,10 +212,10 @@ body {
     padding-right: 2%;
     bottom: 115%;
     float: unset;
-    top: 65%; 
-
+    top: 65%;
 }
-#form{
+
+#form {
     position: absolute;
     width: 99.8%;
     height: 80%;
@@ -224,7 +223,8 @@ body {
     background-color: #DDD7D4;
     border: 1px solid #AE8B96;
 }
-#autour3{
+
+#autour3 {
     position: relative;
     width: 94%;
     height: 20%;
@@ -232,10 +232,10 @@ body {
     padding-right: 2%;
     bottom: 115%;
     float: unset;
-    top: 72%; 
-
+    top: 72%;
 }
-#exp{
+
+#exp {
     position: absolute;
     width: 99.8%;
     height: 80%;
